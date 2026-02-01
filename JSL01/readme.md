@@ -2,7 +2,7 @@
 
 ##Project Description
 
-This Kanban Board is a responsive web application designed to help users visually organize tasks across different stages of progress: TODO, DOING, and DONE. The interface adapts seamlessly between desktop and mobile views, providing an intuitive user experience with clear visual cues and an accessible layout. The project demonstrates clean HTML and CSS practices, focusing on usability, responsiveness, and clean design.
+This Kanban Board is a responsive web application designed to help users visually organize tasks across different stages of progress: TODO, DOING, and DONE. The interface adapts seamlessly between laptop and mobile views, providing an intuitive user experience with clear visual cues and an accessible layout. The project demonstrates clean HTML and CSS practices, focusing on usability, responsiveness, and clean design.
 
 **Technologies Used**
 
@@ -18,7 +18,7 @@ SVG icons and emojis for intuitive visual indicators
 
 **Features Created and Updated**
 
-Responsive design: Sidebar visible on desktop, hidden on mobile to optimize space
+Responsive design: Sidebar visible on laptop, hidden on mobile to optimize space
 
 Mobile-first header update: Displays a favicon next to the project title ("Launch Career") only on mobile devices
 
@@ -33,7 +33,7 @@ Clean and modular CSS: Separation of concerns with well-named classes and media 
 Well-structured code: Logical indentation, spacing, and commenting where appropriate
 Usage Examples and Interaction Instructions
 
-**Viewing on desktop:**
+**Viewing on laptop:**
 
 Sidebar with full Kanban logo and board navigation appears on the left
 
@@ -47,7 +47,7 @@ Header displays the favicon next to the "Launch Career" title, aligned left
 
 Task columns stack vertically for easy scrolling
 
-Task cards:
+**Task cards:**
 
 Each card displays a task with relevant emojis
 
