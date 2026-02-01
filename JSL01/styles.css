@@ -123,8 +123,8 @@ body {
   font-weight: 600;
   cursor: pointer;
 }
-/* Default (Desktop) */
-.desktop-logo {
+/* Default (Laptop) */
+.laptop-logo {
   display: flex;
   align-items: center;
   gap: 8px;
@@ -144,7 +144,6 @@ body {
    MOBILE VIEW
 ====================== */
 @media (max-width: 768px) {
-  /* App should stack vertically */
   .app {
     flex-direction: column;
     height: auto;
@@ -175,8 +174,7 @@ body {
     font-size: 15px;
   }
 
-  .desktop-logo {
+  .laptop-logo {
     display: none;
   }
 }
-
